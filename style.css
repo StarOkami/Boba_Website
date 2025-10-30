@@ -5,11 +5,19 @@ body {
     background-color:rgb(39, 2, 39);
     text-align: center;
 }
-@font-face {
-    font-family:fantasyFont;
-    src: url(firelest_regualar.woff)
-}
 h1 {
     font-size:50px;
-    font-family:fantasyFont;
+    font-family: 'Arial';
+    color: rgb(255, 46, 220);
+}
+h2 {
+    color: rgb(255, 46, 220)
+}
+p {
+   font-size: 30px;
+   color: rgb(15, 189, 42);
+}
+div {
+    font-size: 40px;
+    color: rgb(15, 189, 42);
 }
