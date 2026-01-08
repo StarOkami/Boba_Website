@@ -5,16 +5,10 @@ body {
     background-color:rgb(177, 255, 238);
     text-align: left;
 }
-h1 {
-    font-size:50px;
-    font-family:"Forest", sans-sariff;
-    color: rgb(255, 46, 220);
-}
-p {
-   font-size: 30px;
-   color: rgb(15, 189, 42);
-}
 div {
-    font-size: 40px;
-    color: rgb(15, 189, 42);
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+    margin: 30px;
+    background-color: lightcoral;
 }
