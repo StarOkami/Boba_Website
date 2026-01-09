@@ -1,5 +1,7 @@
-h1 {
+body {
     background-color:rgb(177, 255, 238);
+}
+h1 {
     text-align: left;
 }
 div {
