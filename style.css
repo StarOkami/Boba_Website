@@ -1,7 +1,4 @@
-img {
-    width: 1000px;
-}
-body {
+h1 {
     background-color:rgb(177, 255, 238);
     text-align: left;
 }
@@ -11,4 +8,5 @@ div {
     padding: 50px;
     margin: 30px;
     background-color: lightcoral;
+
 }
