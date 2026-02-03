@@ -9,3 +9,9 @@ ul {
     text-align: center;
     color:white;
 }
+a:link {
+    color:white;
+}
+a:visited {
+    color:white;
+}
