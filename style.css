@@ -1,15 +1,7 @@
 body {
-    background-color:rgb(177, 255, 238);
+    background-color:rgb(51, 52, 52);
 }
 h1 {
-    text-align: left;
+    text-align: center;
     font-size: xx-large;
-}
-div {
-    width: 100px;
-    height: 100px;
-    padding: 50px;
-    margin: 30px;
-    background-color: lightcoral;
-    font-size: x-large;
 }
