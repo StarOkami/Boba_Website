@@ -4,6 +4,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    font-family: "Playwrite NZ Basic", cursive;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
 }
 h1 {
     text-align: center;
